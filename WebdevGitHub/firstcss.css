@@ -1,0 +1,59 @@
+body {
+  background: brown;
+  text-align: center;
+}
+p {
+  color: white;
+}
+h1 {
+  color: blue;
+}
+#header {
+  background: orange;
+}
+
+h2 {
+  color: green;
+}
+
+h3 {
+  color: yellow;
+}
+
+h4 {
+  color: purple;
+}
+
+h5 {
+  color: pink;
+}
+
+h6 {
+  color: red;
+}
+
+ul {
+  background: silver;
+  color: brown;
+}
+
+ol {
+  background: aqua;
+  color: white;
+}
+
+table {
+  background: lime;
+  color: darkblue;
+  text-align: center;
+}
+
+img {
+  border: 5px solid green;
+  height: 200px;
+  width: 200px;
+}
+
+#wrong1 {
+  text-decoration: line-through;  
+}
