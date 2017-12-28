@@ -1,3 +1,6 @@
+/* This is the style sheet. I am changing some of the colours of the page to show you how powerful css can be when styling your website and making it 
+more appealing to the audience.*/
+
 body {
   background: brown;
   text-align: center;
@@ -8,6 +11,8 @@ p {
 h1 {
   color: blue;
 }
+
+/*using id*/
 #header {
   background: orange;
 }
@@ -16,7 +21,8 @@ h2 {
   color: green;
 }
 
-h3 {
+/*using class*/
+.h3style {
   color: yellow;
 }
 
@@ -39,19 +45,25 @@ ul {
 
 ol {
   background: aqua;
-  color: white;
+  color: white;  
 }
-
+/*The table needed a little bit special attention as it was still aligned to the left of the page. margin: auto; corrected that problem though!*/
 table {
   background: lime;
   color: darkblue;
   text-align: center;
+  margin: auto;
+  border-color: blue;
 }
 
 img {
   border: 5px solid green;
   height: 200px;
   width: 200px;
+}
+
+label {
+  color: white;
 }
 
 #wrong1 {
