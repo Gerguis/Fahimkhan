@@ -12,6 +12,10 @@ h1 {
   color: blue;
 }
 
+a {
+  background: #FFFFFF;
+}
+
 /*using id*/
 #header {
   background: orange;

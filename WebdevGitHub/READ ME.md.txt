@@ -1,7 +1,12 @@
 
 I've started my web development project and this is my first entry. I've put 
 together the barebones and now am going to fill it in with content according 
-to my plan and sketches.
+to my plan and sketches. 
+I decided to first build a website called seasons4u but I then thought it would 
+be a good idea to show the different aspects of HTML5, CSS AND JavaScript. So I 
+have written a few different pages explaining the different stages or elements 
+that a website usually contains. Most of the work done was taught to me by university 
+or I learned online using resources like youtube, w3schools website and textbooks.
 
 
 
