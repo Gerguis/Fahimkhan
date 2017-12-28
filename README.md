@@ -1,2 +1,188 @@
-# Fahimkhan
-University Front end web dev assignment (CTEC3905)
+<!DOCTYPE html>
+<html>
+  <head>
+    <!--Here is a title of the website. Quite straightforward, this appears in the tab at the top of the page.-->
+    <title>Web Dev!</title>
+  </head>
+  <body>
+    <!--Some header tags used <h1> and <h2>. They both have different sizes in the browser-->
+    <h1>Welcome to this channel!</h1>
+    <h2>Purpose of the channel in general...</h2>
+    <!--The <p> tag is used here to make paragraphs. This helps when working with different text, later in css-->
+    <!--Noticed how I've used two additional tags within the <p> tags? <em> is basically to put emphasis on something by making it italic-->
+    <p>This website will go through the different <em>elements</em> and <em>aspects</em> of building a <strong>website</strong>.</p>
+    <!--Here I've underlined the word however using the <u> tag-->
+    <p>There are many things we can do with html. For example we can write two identical sentences, <u>however</u>...</p>
+    <!--<b> tag was used before but this is not used anymore and has been replaced-->
+    <p><b>This one is semantically wrong</b></p>
+    <!--<strong> tag is now the correct way of writing words in bold/strong text-->
+    <p><strong>This one is semantically correct</strong></p>
+    <p> Confused? Feel free to go to the source code for a better explanation. Rule of thumb.. if there is anything later down the line like the above confusing 
+       statements, then check the <u>comments</u> in the <strong><em>source code</em></strong> to understand better!
+    <p>
+    <p>Another cool thing you can do using html is h1 to h6 header tags. See how the sizes compare!:</p>
+    <h1>This is the <strong>h1</strong> tag in effect!</h1>
+    <h2>This is the <strong>h2</strong> tag in effect!</h2>
+    <h3>This is the <strong>h3</strong> tag in effect!</h3>
+    <h4>This is the <strong>h4</strong> tag in effect!</h4>
+    <h5>This is the <strong>h5</strong> tag in effect!</h5>
+    <h6>And finally, this is the <strong>h6</strong> tag in effect!</h6>
+    <p>Now Lets check out what lists look like..</p>
+    <p>This is an ordered list: </p>
+    <ol>
+      <li>Fania</li>
+      <li>Dave</li>
+      <li>Fahim</li>
+      <li>Captain Biceps</li>
+      <li>Blah Blah</li>
+      <li>You get the point :)</li>
+    </ol>
+    <p>This is an unordered list: </p>
+    <ul>
+      <li>Fania</li>
+      <li>Dave</li>
+      <li>Fahim</li>
+      <li>Captain Triceps</li>
+      <li>Blah Blah</li>
+      <li>Again, You get the point :)</li>
+    </ul>
+    <p>This is a list of nested lists. This is just to demonstrate that you can nest lists within lists. I like to call this a crazy list because it's just crazyyy..</p>
+    <!--Here we have an unordered list within which resides 2 ordered list, and in those nest a further 2 unordered lists. Crazy or what!-->
+    <ul>
+      <li>Fania</li>
+        <ol>
+          <li>Dave</li>
+            <ul>
+              <li>Fahim</li>
+              <li>Captain Pecs</li>
+            </ul>
+        </ol>
+        <li>Blah Blah and more Blah</li>
+        <ol>
+          <li>Again, You get the point :)</li>
+            <ul>
+              <li>Or atleast I hope you do lol</li>
+            </ul>
+        </ol>
+    </ul>
+    <p>I think we need an image here.. too much text and not enough pictures makes me angry. Kinda like this guy!: </p>
+    <!--Notice how the following image tag doesn't need a closing tag.. cool eh?-->
+    <!--The first source[src] is a jpg file residing in the folder and the other one is a link from the image which is hosted on a server and available on the internet
+        That's the difference between the two images!-->
+    <img src="angrydoggo.jpg">
+    <img src="https://www.polyvore.com/cgi/img-thing?.out=jpg&size=l&tid=12660460">
+    <p>If you're confused as to why there are two images.. well you know what to do [hint: Ctrl + u] :)</p>
+    <!--I've just added a link to google here and wrapped the word 'here' in the tags to make it the link.-->
+    <p>Now, let's be silly and assume you didn't like the above cute doggo pic. Feel free to click <a href="https://www.google.co.uk/">here</a> to search one for yourself!</p>
+    <p>Ladies and Gents, I present to you... a table:</p>
+    <table>
+      <thead>
+        <th>Name</th>
+        <th>Age</th>
+        <th>Strength Level</th>
+      </thead>
+        <tbody>
+          <tr>
+            <td>Superman</td>
+            <td>34</td>
+            <td>Can turn back time!</td>
+          </tr>
+          <tr>
+            <td>Hulk</td>
+            <td>2</td>
+            <td>Breaks Worlds!</td>
+          </tr>
+          <tr>
+            <td>Goku</td>
+            <td>42</td>
+            <td>Over 9000!</td>
+          </tr>
+        </tbody>
+    </table>
+    <p>Here is the same table but with a border so you may see it better. I've just used this to show you guys but practically we would use css for this.</p>
+    <!--It's bad practice to use the border tag here as all aesthetics should primarily be done using CSS, it's just for example purposes to show the 
+       table a bit better-->
+    <table border="1">
+      <thead>
+        <th>Name</th>
+        <th>Age</th>
+        <th>Strength Level</th>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Superman</td>
+          <td>34</td>
+          <td>Can turn back time!</td>
+        </tr>
+        <tr>
+          <td>Hulk</td>
+          <td>2</td>
+          <td>Breaks Worlds!</td>
+        </tr>
+        <tr>
+          <td>Goku</td>
+          <td>42</td>
+          <td>Over 9000!</td>
+        </tr>
+      </tbody>
+    </table>
+	
+	<p>Have you ever seen a form so amazing as this one?.. Check it out!:</p>
+	<form>
+	<!--Here the input is within the form, the type is which type of input the user can put into the boxes and the placeholder is to help the user 
+	understand which box is for what.-->
+	  <input type="text" placeholder="username">
+	  <input type="password" placeholder="password">
+	  <input type="submit">
+	</form>
+	<p>Same form but with more accessibility!:</p>
+	<form>
+	<!--Here is the same form but with labels instead of just placeholders. The users with sight impairment can better navigate when filling out a form
+	with label tags as software that aids them uses the label tags to find and fill out the form.-->
+	  <label for="username">Username:</label>
+	  <input id="username" type="text" placeholder="username">
+	  <label for="password">Password:</label>
+	  <input id="password" type="password" placeholder="password">
+	  <input type="submit">
+	</form>
+	<p>Form with validation coming right up...</p>
+	<!--Here is a form which validates the user input and only proceeds if the validation criteria is met. The key word is required which is a boolean 
+	and it tells the browser that the data is required in the form in order to submit it. Try it out! -->
+	<form action="http://www.google.co.uk/">
+	  <label for="email">Email:</label>
+	  <input id="email" type="email" placeholder="email">
+	  <label for="password">Password:</label>
+	  <input id="password" type="password" placeholder="password" required="true"><!--Notice the required here but not in the email one. Email comes default with validation!-->
+	  <input type="submit">
+	</form>
+	<p>Radio buttons, Checkboxes and Dropdown menu's!:</p>
+	
+	<!--The radio button requires a name to connect all the radio buttons together so the browser knows that if one is selected another one can not be selected.-->
+	<form>
+	  <p>What is your gender?</p>
+	  <label for="male">Male</label>
+	  <input name="gender" id="male" type="radio" value="MALE">
+	  <label for="female">Female</label>
+	  <input name="gender" id="femail" type="radio" value="FEMALE">
+	  <label for="unspecified">Unspecified</label>
+	  <input name="gender" id="unspecified" type="radio" value="UNSPECIFIED">
+	
+	<!--pretty standard and straightforward drop down menu-->  
+	  <p>What is your favourite colour?</p>
+	  <select name="colour">
+	    <option value="Green">Green</option>
+		<option value="Red">Red</option>
+		<option value="Blue">Blue</option>
+		<option value="Yellow">Yellow</option>
+	  </select>	  
+	
+	<!--here's a text box to write something in like a message, or a bio etc-->  
+	  <p>Would you like to write something longgg?</p>
+	  <textarea name="paragraph" rows="10" cols="50"></textarea>
+	  <button>Enter</button>
+	</form>
+	<p>Are you thinking the same thing I'm thinking... this page looks so bland and ugly. no colour, no structure... well lets change some of that eh?</p>
+	<p>Click on the following links to go to the corresponding pages!</p>
+	<p><a href="cssone.html">CSS1</a> <a href="picblog.html">Pic Blog</a> <a href="jsclrgame.html">Javascript Game</a> <a href="seasons4u/index.html">Seasons4U</a></p>
+  </body>
+</html>
