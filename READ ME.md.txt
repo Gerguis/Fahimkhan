@@ -6,7 +6,48 @@ I decided to first build a website called seasons4u but I then thought it would
 be a good idea to show the different aspects of HTML5, CSS AND JavaScript. So I 
 have written a few different pages explaining the different stages or elements 
 that a website usually contains. Most of the work done was taught to me by university 
-or I learned online using resources like youtube, w3schools website and textbooks.
+or I learned online using resources like youtube, w3schools website and textbook.
 
-
+References/Bibliography
+-----------------------
+Castro, E., 2017. HTML, XHTML & CSS. Peachpit Press.
+Alvaro, F., 2016. JavaScript. CreateSpace Independent Publishing Platform.
+HTML5 Introduction. 2017. HTML5 Introduction. [ONLINE] Available at: https://www.w3schools.com/html/html5_intro.asp. 
+[Accessed 9 December 2017].
+CSS Tutorial. 2017. CSS Tutorial. [ONLINE] Available at: https://www.w3schools.com/css/default.asp. 
+[Accessed 19 December 2017].
+JavaScript Tutorial. 2017. JavaScript Tutorial. [ONLINE] Available at: https://www.w3schools.com/js/default.asp. 
+[Accessed 21 December 2017].
+RGB Color Codes Chart. 2017. RGB Color Codes Chart. [ONLINE] Available at: https://www.rapidtables.com/web/color/RGB_Color.html. 
+[Accessed 20 December 2017].
+Team Codrops. 2017. Codrops | Useful resources and inspiration for creative minds. [ONLINE] Available at: https://tympanus.net/codrops/. 
+[Accessed 21 December 2017].
+dzone.com. 2017. DZone. [ONLINE] Available at: https://dzone.com/. 
+[Accessed 27 December 2017].
+Stack Overflow - Where Developers Learn, Share, & Build Careers. 2017. Stack Overflow - Where Developers Learn, Share, & Build Careers. [ONLINE] Available at: https://stackoverflow.com/. 
+[Accessed 24 December 2017].
+Unheap. 2017. Unheap - A tidy Repository of jQuery Plugins & JavaScripts. [ONLINE] Available at: http://www.unheap.com/. 
+[Accessed 25 December 2017].
+GitHub. 2017. The world's leading software development platform · GitHub. [ONLINE] Available at: https://github.com/. 
+[Accessed 25 December 2017].
+Dave Shea. 2017. CSS Zen Garden: The Beauty of CSS Design. [ONLINE] Available at: http://www.csszengarden.com/. 
+[Accessed 24 December 2017].
+The Ultimate Guide To Coding for Beginners. 2017. The Ultimate Guide To Coding for Beginners. [ONLINE] Available at: http://resources.skillcrush.com/the-ultimate-guide-to-coding-for-beginners. 
+[Accessed 19 December 2017].
+Code School. 2017. Beginner’s Guide to Web Development | Code School. [ONLINE] Available at: https://www.codeschool.com/beginners-guide-to-web-development. 
+[Accessed 19 December 2017].
+HTMLGoodies. 2017. Web Development: The Need to Know Basics. [ONLINE] Available at: https://www.htmlgoodies.com/tutorials/getting_started/article.php/3869776/Web-Development-The-Need-to-Know-Basics.htm. 
+[Accessed 21 December 2017].
+Web Development 101 | The Odin Project . 2017. Web Development 101 | The Odin Project . [ONLINE] Available at: https://www.theodinproject.com/courses/web-development-101. 
+[Accessed 25 December 2017].
+Mozilla Developer Network. 2017. Introduction to Web development - Web developer guides | MDN. [ONLINE] Available at: https://developer.mozilla.org/en-US/docs/Web/Guide/Introduction_to_Web_development. 
+[Accessed 24 December 2017].
+Codecademy. 2017. Learn to code | Codecademy. [ONLINE] Available at: https://www.codecademy.com/. 
+[Accessed 24 December 2017].
+Coursera. 2017. Coursera | Online Courses From Top Universities. Join for Free. [ONLINE] Available at: https://www.coursera.org/. 
+[Accessed 26 December 2017].
+YouTube. 2017. Web Development Tutorial for Beginners (#1) - How to build webpages with HTML, CSS, Javascript - YouTube. [ONLINE] Available at: https://www.youtube.com/watch?v=3JluqTojuME. 
+[Accessed 25 December 2017].
+YouTube. 2017. HTML5/CSS3 Flat Responsive Website - Start To Finish Web Design Tutorial - YouTube. [ONLINE] Available at: https://www.youtube.com/watch?v=muZ0JYBCnrU. 
+[Accessed 24 December 2017].
 
